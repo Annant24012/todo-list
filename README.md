@@ -14,7 +14,7 @@ This is a simple and professional Todo web application built with React and Tail
 ## Screenshots
 
 <div align=center>
-    <img src="./public/project1.png"/>
+    <img src="./public/image.png"/>
 </div>
 
 ## Live Demo
