@@ -1,8 +1,50 @@
-# React + Vite
+# Todo App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a simple and professional Todo web application built with React and TailwindCSS. The app allows users to manage their todos efficiently with options to add, update, delete, and mark todos as completed.
 
-Currently, two official plugins are available:
+## Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- Add new todos
+- Update existing todos
+- Delete todos
+- Mark todos as completed
+- Responsive design for mobile and desktop users
+- Persist todos in local storage
+
+## Screenshots
+
+<div align=center>
+    <img src="./public/project1.png"/>
+</div>
+
+## Live Demo
+
+You can check out the live demo here: https://todosannant.netlify.app/
+
+## Installation
+
+1. Clone the repository:
+
+   ```bash
+   git clone https://github.com/Annant24012/todo-list
+   cd Todos
+   ```
+
+2. Install the dependencies:
+
+   ```bash
+   npm install
+   ```
+
+3. Start the development server:
+
+   ```bash
+   npm run dev
+   ```
+
+## Usage
+
+- **Add Todo**: Type your task in the input field and click the "Add Todo" button.
+- **Update Todo**: Click on a todo item to edit it.
+- **Delete Todo**: Click the "Delete" button next to a todo item to remove it.
+- **Mark as Completed**: Check the checkbox next to a todo item to mark it as completed.
